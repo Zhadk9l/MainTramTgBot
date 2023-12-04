@@ -1,0 +1,33 @@
+﻿namespace ModernTramTgBot.States
+{
+    internal enum State
+    {
+        None,
+        PaswordAdminLev,
+        AdminMainLev,
+        AdminPassengerLev,
+        PassengerTicket,
+        PassengerTicketBuy,
+        AdminTramLev,
+        AdminTramChangesLev,
+        AdminOperatorLev,
+        AdminOperatorChangesLev,
+        AdminStaffLev,
+        AdminStaffChangesLev,
+        AdminIncidentLev,
+        AdminIncidentChangesLev,
+        AdminTicketLev,
+        AdminTicketChangesLev,
+        PaswordOperatorLev,
+        OperatorMainLev,
+        IncidentChangesLev,
+        PaswordStaffLev,
+        StaffMainLev,
+        StaffLogsLev,
+        StaffLogsChangesLev,
+        StaffIncLev,
+        StaffTramLev,
+        StaffIncChangesLev,
+        StaffTramsChangesLev
+    }
+}

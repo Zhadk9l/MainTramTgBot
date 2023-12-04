@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ModernTramTgBot/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "Telegram": "1.0.1",
+          "Telegram.Bot": "19.0.0"
+        },
+        "runtime": {
+          "ModernTramTgBot.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "Telegram/1.0.1": {
+        "dependencies": {
+          "TLSchema": "1.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Telegram.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "Telegram.Bot/19.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/Telegram.Bot.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.0.0.0"
+          }
+        }
+      },
+      "TLSchema/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/TLSchema.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModernTramTgBot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "Telegram/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H0W7kLvOlpZDgg4WK7KXvQBZVnklC3g6MgR4ZdEFzzvzEutJiELPTybwiPpksU8iGoHLBWsha6KtjoJ8+B8VBw==",
+      "path": "telegram/1.0.1",
+      "hashPath": "telegram.1.0.1.nupkg.sha512"
+    },
+    "Telegram.Bot/19.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Q16IOitgjGoaJOuqgKQy0FeF+hr/ncmlX2esrhCC7aiyhSX7roYEriWaGAHkQZR8QzbImjFfl4eQh2IxcnOrPg==",
+      "path": "telegram.bot/19.0.0",
+      "hashPath": "telegram.bot.19.0.0.nupkg.sha512"
+    },
+    "TLSchema/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IJN057mi7eUss6QRWEhzFyIwhx37aODSvPZRczqgJz3oeNeKK194jhlGTFDWfpKDlc5TcJc52TuQ0QsM5EYa3Q==",
+      "path": "tlschema/1.1.0",
+      "hashPath": "tlschema.1.1.0.nupkg.sha512"
+    }
+  }
+}

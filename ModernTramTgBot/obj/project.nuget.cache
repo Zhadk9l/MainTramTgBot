@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyr6ZnU7JjsGCHaFNp3+ZLaM35M3TLSu/SqeAGblg3l7OxceqUJqL+4XWTqJ5XW4nitt/3bbLsDEhfeihbiAhA==",
+  "success": true,
+  "projectFilePath": "C:\\KPI\\.net\\ModernTramTgBot\\ModernTramTgBot\\ModernTramTgBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\telegram\\1.0.1\\telegram.1.0.1.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\tlschema\\1.1.0\\tlschema.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
